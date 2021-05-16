@@ -1,0 +1,157 @@
+/*Cabeçalho do site*/
+
+.cabecalho {
+  width: 100%;
+  float: left;
+  padding: 0 50px;
+  background-image: url("assets/images/carros_avenida.png");
+  background-size: cover;
+  background-position: center;
+  padding-top: 3rem;
+}
+
+.matheus img {
+  width: 240px;
+  height: 200x;
+}
+
+.logo img {
+  width: 100px;
+  height: 50x;
+}
+
+#slogan {
+  color: #e12c30;
+  font-weight: bold;
+}
+
+/*Parte com vídeo e afiliar: Main*/
+
+.principal {
+  width: 100%;
+  padding: 20px 8%;
+  float: left;
+  background-color: #e12c30;
+}
+
+.video {
+  width: auto;
+}
+
+.video img {
+  width: 350px;
+  height: 200px;
+}
+
+.form {
+  width: 400px;
+}
+
+.cardf {
+  background-color: #ce282b;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.card-group {
+  margin-bottom: 10px;
+}
+
+.card-group > label {
+  width: 100%;
+  color: rgb(75, 75, 75);
+  display: block;
+}
+
+.card-group > input {
+  border-radius: 10px;
+  outline: 0;
+  width: 94%;
+  height: 30px;
+  padding: 10px;
+  border: 0;
+  font-weight: bold;
+}
+
+/*Informações e mini imagens*/
+
+.informacoes h1 {
+  color: #676767;
+  text-align: center;
+}
+
+.informacoes {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.card {
+  background-color: #f9f9f9;
+  padding: auto;
+  border-radius: 5px;
+}
+
+.card1-group {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.card1-group > label {
+  width: 100%;
+  color: #676767;
+}
+
+#circulo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #e12c30;
+  margin-right: 1rem;
+}
+
+/*Pergunta e foto do carrinho*/
+
+.pergunta {
+  width: 100%;
+  padding: 2rem 0;
+  background-color: #e12c30;
+}
+
+.pergunta h1 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.pergunta h2 {
+  color: #ffffff;
+  font-weight: lighter;
+}
+
+.pergunta img {
+  width: 200px;
+  height: 150px;
+  float: right;
+}
+
+/*Texto com foto ao lado*/
+
+.texto h1 {
+  text-align: center;
+  color: #676767;
+}
+
+.texto p {
+  color: #676767;
+}
+
+/*Botão final*/
+.botao {
+  background-color: #12d01a;
+  width: 100%;
+  border-radius: 30px;
+  padding: 15px;
+  color: white;
+  border: 0px;
+  outline: 0;
+  font-weight: bold;
+}
